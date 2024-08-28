@@ -58,7 +58,7 @@ grayscale_image.save('mouse1.jpg')
 
 coordinates = (150, 100, img.width, img.height)
 img = img.crop(coordinates)  # Отрежется 150 пикселей слева и 100 сверху
-img.save('mouse1.jpg')
+img.save('mouse2.jpg')
 
 
 # matplotlib
